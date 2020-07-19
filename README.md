@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 
 More on [finaldie.com/blog][0]
 
-<table><tr><td valign="top" width="33%">
-
+</td><td valign="top" width="33%">
 
 | [Youtube Videos][10000]                                                        |
 | ------------------------------------------------------------------------------ |
