@@ -20,13 +20,6 @@ Here are some ideas to get you started:
 | --------------------------------------------- |
 | [Data partitioning: Consistent-Hashing][1]    |
 | [Load Balancer: Will our system survive?][2]  |
-|                                               |
-|                                               |
-|                                               |
-|                                               |
-|                                               |
-|                                               |
-|                                               |
 
 More on [finaldie.com/blog][0]
 
