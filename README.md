@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<table><tr><td valign="top" width="66%">
 
-| [Recent Blogs][0]                             | [Youtube Videos][10000]                                                        |
+| [Recent Blogs][0]                             | [Youtube Videos][10000]                                                        | 
 | --------------------------------------------- | ------------------------------------------------------------------------------ |
 | [Data partitioning: Consistent-Hashing][1]    | [Load Balancer: Is consistent-hashing good enough?][10001]                     |
 | [Load Balancer: Will our system survive?][2]  | [Load Balancer: Will our system survive?][10002]                               |
@@ -27,6 +28,13 @@ Here are some ideas to get you started:
 |                                               | [Message Queue vs Mesh Network][10008]                                         |
 |                                               |                                                                                |
 | More on [finaldie.com/blog][0]                | More on [Youtube][10000]                                                       |
+
+</td><td valign="top" width="34%">
+
+![gh_profile](https://github.com/finaldie/finaldie/blob/master/img/gh_profile.gif)
+
+</td></tr></table>
+
 
 <!-- Blog -->
 [0]: https://finaldie.com/blog/
