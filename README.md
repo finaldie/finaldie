@@ -16,25 +16,23 @@ Here are some ideas to get you started:
 
 <table><tr><td valign="top" width="33%">
 
-| [Recent Blogs][0]                             |
-| --------------------------------------------- |
-| [Data partitioning: Consistent-Hashing][1]    |
-| [Load Balancer: Will our system survive?][2]  |
+### [Recent Blogs][0]
+* [Data partitioning: Consistent-Hashing][1]
+* [Load Balancer: Will our system survive?][2]
 
 More on [finaldie.com/blog][0]
 
 </td><td valign="top" width="33%">
 
-| [Youtube Videos][10000]                                                        |
-| ------------------------------------------------------------------------------ |
-| [Load Balancer: Is consistent-hashing good enough?][10001]                     |
-| [Load Balancer: Will our system survive?][10002]                               |
-| [System design: Write-around Cache][10003]                                     |
-| [System design: Write-back cache][10004]                                       |
-| [System design: Write-through Cache][10005]                                    |
-| [System design: Mod-hashing vs Consistent-hashing][10006]                      |
-| [Data partitioning: Hot-key problem][10007]                                    |
-| [Message Queue vs Mesh Network][10008]                                         |
+### [Youtube Videos][10000]
+* [Load Balancer: Is consistent-hashing good enough?][10001]
+* [Load Balancer: Will our system survive?][10002]
+* [System design: Write-around Cache][10003]
+* [System design: Write-back cache][10004]
+* [System design: Write-through Cache][10005]
+* [System design: Mod-hashing vs Consistent-hashing][10006]
+* [Data partitioning: Hot-key problem][10007]
+* [Message Queue vs Mesh Network][10008]
 
 More on [Youtube][10000]
 
