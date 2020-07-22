@@ -25,6 +25,7 @@ More on [finaldie.com/blog][0]
 </td><td valign="top" width="33%">
 
 ### [Youtube Videos][10000]
+* [Consensus Algorithm: Leader Election in Raft][10009]
 * [Load Balancer: Is consistent-hashing good enough?][10001]
 * [Load Balancer: Will our system survive?][10002]
 * [System design: Write-around Cache][10003]
@@ -63,3 +64,4 @@ More on [Youtube][10000]
 [10006]: https://youtu.be/2F88x0qiqlU
 [10007]: https://youtu.be/vSIMWiDuBUc
 [10008]: https://youtu.be/pyxfhhT0eb8
+[10009]: https://youtu.be/D_2trlmtjI8
