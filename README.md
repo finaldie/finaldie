@@ -38,9 +38,18 @@ More on [finaldie.com/blog][0]
 More on [Youtube][10000]
 
 </td><td valign="top" width="34%">
-
-![gh_profile](https://github.com/finaldie/finaldie/blob/master/img/gh_profile.gif)
-
+  <table>
+  <tr>
+    <td>
+    <img src="https://github.com/finaldie/finaldie/blob/master/img/gh_profile_lb.gif" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <img src="https://github.com/finaldie/finaldie/blob/master/img/gh_profile_le.gif" />
+    </td>
+  </tr>
+  </table>
 </td></tr></table>
 
 
