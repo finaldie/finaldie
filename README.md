@@ -45,12 +45,12 @@ More on [Youtube][10000]
   <table>
   <tr>
     <td>
-    <img src="https://github.com/finaldie/finaldie/blob/master/img/gh_profile_lb.gif" />
+    <img src="https://github.com/finaldie/finaldie/blob/master/img/gh_profile_lb.gif" width=300 />
     </td>
   </tr>
   <tr>
     <td>
-    <img src="https://github.com/finaldie/finaldie/blob/master/img/gh_profile_le.gif" />
+    <img src="https://github.com/finaldie/finaldie/blob/master/img/gh_profile_le.gif" width=300 />
     </td>
   </tr>
   </table>
