@@ -26,6 +26,7 @@ More on [finaldie.com/blog][0]
 </td><td valign="top" width="33%">
 
 ### [Youtube Videos][10000]
+* [Data Structure & Algorithm: BinarySearch and Quicksort][10013]
 * [Consensus Algorithm: Distributed Lock][10012]
 * [Consensus Algorithm: Fault Tolerance in Raft][10011]
 * [Consensus Algorithm: Log Replication in Raft][10010]
@@ -81,3 +82,4 @@ More on [Youtube][10000]
 [10010]: https://youtu.be/s_RMt3I4vcw
 [10011]: https://youtu.be/Kq5jWx6vn88
 [10012]: https://youtu.be/oSwsYbDG0wo
+[10013]: https://youtu.be/n_WRJ9FdSYY
