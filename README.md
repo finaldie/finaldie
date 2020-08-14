@@ -26,6 +26,7 @@ More on [finaldie.com/blog][0]
 </td><td valign="top" width="33%">
 
 ### [Youtube Videos][10000]
+* [Data Structure & Algorithm: Bloom-Filter][10015]
 * [Data Structure & Algorithm: Union-Find][10014]
 * [Data Structure & Algorithm: BinarySearch and Quicksort][10013]
 * [Consensus Algorithm: Distributed Lock][10012]
@@ -85,3 +86,4 @@ More on [Youtube][10000]
 [10012]: https://youtu.be/oSwsYbDG0wo
 [10013]: https://youtu.be/n_WRJ9FdSYY
 [10014]: https://youtu.be/v9UJgEohYzI
+[10015]: https://youtu.be/X6ooeMY4bAk
