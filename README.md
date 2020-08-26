@@ -26,6 +26,8 @@ More on [finaldie.com/blog][0]
 </td><td valign="top" width="33%">
 
 ### [Youtube Videos][10000]
+* [Data Structure & Algorithm: Cuckoo-Filter][10017]
+* [Data Structure & Algorithm: Count-min Sketch][10016]
 * [Data Structure & Algorithm: Bloom-Filter][10015]
 * [Data Structure & Algorithm: Union-Find][10014]
 * [Data Structure & Algorithm: BinarySearch and Quicksort][10013]
@@ -87,3 +89,5 @@ More on [Youtube][10000]
 [10013]: https://youtu.be/n_WRJ9FdSYY
 [10014]: https://youtu.be/v9UJgEohYzI
 [10015]: https://youtu.be/X6ooeMY4bAk
+[10016]: https://www.youtube.com/watch?v=xRdGOzL_M0A
+[10017]: https://www.youtube.com/watch?v=L69NhVw_R-8
