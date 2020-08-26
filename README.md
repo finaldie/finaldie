@@ -35,6 +35,8 @@ More on [finaldie.com/blog][0]
 * [Consensus Algorithm: Fault Tolerance in Raft][10011]
 * [Consensus Algorithm: Log Replication in Raft][10010]
 * [Consensus Algorithm: Leader Election in Raft][10009]
+
+<!--
 * [Load Balancer: Is consistent-hashing good enough?][10001]
 * [Load Balancer: Will our system survive?][10002]
 * [System design: Write-around Cache][10003]
@@ -43,6 +45,7 @@ More on [finaldie.com/blog][0]
 * [System design: Mod-hashing vs Consistent-hashing][10006]
 * [Data partitioning: Hot-key problem][10007]
 * [Message Queue vs Mesh Network][10008]
+-->
 
 More on [Youtube][10000]
 
