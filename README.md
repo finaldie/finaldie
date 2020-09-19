@@ -34,7 +34,6 @@ More on [finaldie.com/blog][0]
 * [Data Structure & Algorithm: Union-Find][10014]
 * [Data Structure & Algorithm: BinarySearch and Quicksort][10013]
 * [Consensus Algorithm: Distributed Lock][10012]
-* [Consensus Algorithm: Fault Tolerance in Raft][10011]
 * [Consensus Algorithm: Log Replication in Raft][10010]
 * [Consensus Algorithm: Leader Election in Raft][10009]
 
@@ -47,6 +46,7 @@ More on [finaldie.com/blog][0]
 * [System design: Mod-hashing vs Consistent-hashing][10006]
 * [Data partitioning: Hot-key problem][10007]
 * [Message Queue vs Mesh Network][10008]
+* [Consensus Algorithm: Fault Tolerance in Raft][10011]
 -->
 
 More on [Youtube][10000]
