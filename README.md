@@ -26,6 +26,7 @@ More on [finaldie.com/blog][0]
 </td><td valign="top" width="33%">
 
 ### [Youtube Videos][10000]
+* [Data Structure & Algorithm: Monotonic Stack][10022]
 * [Data Structure & Algorithm: Prefix Sum][10021]
 * [Data Structure & Algorithm: Binary Indexed Tree][10020]
 * [Data Structure & Algorithm: Bucket-Sort][10019]
@@ -102,3 +103,4 @@ More on [Youtube][10000]
 [10019]: https://youtu.be/WCNIBL29MqE
 [10020]: https://youtu.be/ypWL8WSIgfQ
 [10021]: https://youtu.be/90Hx75nEDpI
+[10022]: https://youtu.be/mjHZbk7PcAs
