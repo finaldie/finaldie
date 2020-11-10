@@ -26,6 +26,7 @@ More on [finaldie.com/blog][0]
 </td><td valign="top" width="33%">
 
 ### [Youtube Videos][10000]
+* [Data Structure & Algorithm: Shortest Path (BFS)][10026]
 * [Data Structure & Algorithm: Rainbow Sort][10025]
 * [Data Structure & Algorithm: Monotonic Stack III][10024]
 * [Data Structure & Algorithm: Monotonic Stack II][10023]
@@ -110,3 +111,4 @@ More on [Youtube][10000]
 [10023]: https://www.youtube.com/watch?v=Z7V8hr3PvKM
 [10024]: https://www.youtube.com/watch?v=_VFU9veNHoc
 [10025]: https://www.youtube.com/watch?v=uStRXjd8WXg
+[10026]: https://www.youtube.com/watch?v=6sgET8C2xe0
