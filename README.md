@@ -26,6 +26,8 @@ More on [finaldie.com/blog][0]
 </td><td valign="top" width="33%">
 
 ### [Youtube Videos][10000]
+* [Data Structure & Algorithm: Longest Substring - Sliding window][10029]
+* [Data Structure & Algorithm: Longest Increasing Sequence - Dynamic Programming][10028]
 * [Data Structure & Algorithm: Minimum Path Sum - Dijkstra][10027]
 * [Data Structure & Algorithm: Shortest Path - BFS][10026]
 * [Data Structure & Algorithm: Rainbow Sort][10025]
@@ -34,6 +36,8 @@ More on [finaldie.com/blog][0]
 * [Data Structure & Algorithm: Monotonic Stack][10022]
 * [Data Structure & Algorithm: Prefix Sum][10021]
 * [Data Structure & Algorithm: Binary Indexed Tree][10020]
+
+<!--
 * [Data Structure & Algorithm: Bucket-Sort][10019]
 * [Data Structure & Algorithm: Quick-Select][10018]
 * [Data Structure & Algorithm: Cuckoo-Filter][10017]
@@ -44,8 +48,6 @@ More on [finaldie.com/blog][0]
 * [Consensus Algorithm: Distributed Lock][10012]
 * [Consensus Algorithm: Log Replication in Raft][10010]
 * [Consensus Algorithm: Leader Election in Raft][10009]
-
-<!--
 * [Load Balancer: Is consistent-hashing good enough?][10001]
 * [Load Balancer: Will our system survive?][10002]
 * [System design: Write-around Cache][10003]
@@ -114,3 +116,5 @@ More on [Youtube][10000]
 [10025]: https://www.youtube.com/watch?v=uStRXjd8WXg
 [10026]: https://www.youtube.com/watch?v=6sgET8C2xe0
 [10027]: https://www.youtube.com/watch?v=i3IRTLYt8FE
+[10028]: https://www.youtube.com/watch?v=AY5yzQCAUHY
+[10029]: https://www.youtube.com/watch?v=tw-aMWOyUOM
