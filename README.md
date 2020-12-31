@@ -26,6 +26,7 @@ More on [finaldie.com/blog][0]
 </td><td valign="top" width="33%">
 
 ### [Youtube Videos][10000]
+* [Data Structure & Algorithm: Unique Paths][10031]
 * [Data Structure & Algorithm: Maze Escape - BFS][10030]
 * [Data Structure & Algorithm: Longest Substring - Sliding window][10029]
 * [Data Structure & Algorithm: Longest Increasing Sequence - Dynamic Programming][10028]
@@ -35,9 +36,9 @@ More on [finaldie.com/blog][0]
 * [Data Structure & Algorithm: Monotonic Stack III][10024]
 * [Data Structure & Algorithm: Monotonic Stack II][10023]
 * [Data Structure & Algorithm: Monotonic Stack][10022]
-* [Data Structure & Algorithm: Prefix Sum][10021]
 
 <!--
+* [Data Structure & Algorithm: Prefix Sum][10021]
 * [Data Structure & Algorithm: Binary Indexed Tree][10020]
 * [Data Structure & Algorithm: Bucket-Sort][10019]
 * [Data Structure & Algorithm: Quick-Select][10018]
@@ -120,3 +121,4 @@ More on [Youtube][10000]
 [10028]: https://www.youtube.com/watch?v=AY5yzQCAUHY
 [10029]: https://www.youtube.com/watch?v=tw-aMWOyUOM
 [10030]: https://www.youtube.com/watch?v=z9Z01L-4q2M
+[10031]: https://www.youtube.com/watch?v=F3D33r_3wUI
