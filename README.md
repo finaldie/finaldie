@@ -26,6 +26,7 @@ More on [finaldie.com/blog][0]
 </td><td valign="top" width="33%">
 
 ### [Youtube Videos][10000]
+* [System Design: Data Replication][10034]
 * [Data Structure & Algorithm: Closest Point - Bidirectional BFS][10033]
 * [Data Structure & Algorithm: Partition Equal Sum - Dynamic Programming][10032]
 * [Data Structure & Algorithm: Unique Paths][10031]
@@ -35,9 +36,9 @@ More on [finaldie.com/blog][0]
 * [Data Structure & Algorithm: Minimum Path Sum - Dijkstra][10027]
 * [Data Structure & Algorithm: Shortest Path - BFS][10026]
 * [Data Structure & Algorithm: Rainbow Sort][10025]
-* [Data Structure & Algorithm: Monotonic Stack III][10024]
 
 <!--
+* [Data Structure & Algorithm: Monotonic Stack III][10024]
 * [Data Structure & Algorithm: Monotonic Stack II][10023]
 * [Data Structure & Algorithm: Monotonic Stack][10022]
 * [Data Structure & Algorithm: Prefix Sum][10021]
@@ -126,3 +127,4 @@ More on [Youtube][10000]
 [10031]: https://www.youtube.com/watch?v=F3D33r_3wUI
 [10032]: https://www.youtube.com/watch?v=PDQui9zjVkk
 [10033]: https://www.youtube.com/watch?v=8h5JUSkjOkM
+[10034]: https://www.youtube.com/watch?v=qYr21MSp_G4
