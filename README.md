@@ -26,6 +26,7 @@ More on [finaldie.com/blog][0]
 </td><td valign="top" width="33%">
 
 ### [Youtube Videos][10000]
+* [WebGL Shader: A million points][10035]
 * [System Design: Data Replication][10034]
 * [Data Structure & Algorithm: Closest Point - Bidirectional BFS][10033]
 * [Data Structure & Algorithm: Partition Equal Sum - Dynamic Programming][10032]
@@ -128,3 +129,4 @@ More on [Youtube][10000]
 [10032]: https://www.youtube.com/watch?v=PDQui9zjVkk
 [10033]: https://www.youtube.com/watch?v=8h5JUSkjOkM
 [10034]: https://www.youtube.com/watch?v=qYr21MSp_G4
+[10035]: https://www.youtube.com/watch?v=Tpc-k-nMukc
