@@ -26,6 +26,7 @@ More on [finaldie.com/blog][0]
 </td><td valign="top" width="33%">
 
 ### [Youtube Videos][10000]
+* [System Design: Rate Limiting][10037]
 * [System Design: Horizontal Scaling][10036]
 * [WebGL Shader: A million points][10035]
 * [System Design: Data Replication][10034]
@@ -132,3 +133,4 @@ More on [Youtube][10000]
 [10034]: https://www.youtube.com/watch?v=qYr21MSp_G4
 [10035]: https://www.youtube.com/watch?v=Tpc-k-nMukc
 [10036]: https://www.youtube.com/watch?v=9b133YOhI3g
+[10037]: https://www.youtube.com/watch?v=9W3aCMWlFIM
