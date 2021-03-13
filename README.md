@@ -26,6 +26,7 @@ More on [finaldie.com/blog][0]
 </td><td valign="top" width="33%">
 
 ### [Youtube Videos][10000]
+* [System Design: Data Partitioning][10038]
 * [System Design: Rate Limiting][10037]
 * [System Design: Horizontal Scaling][10036]
 * [WebGL Shader: A million points][10035]
@@ -37,9 +38,9 @@ More on [finaldie.com/blog][0]
 * [Data Structure & Algorithm: Longest Substring - Sliding window][10029]
 * [Data Structure & Algorithm: Longest Increasing Sequence - Dynamic Programming][10028]
 * [Data Structure & Algorithm: Minimum Path Sum - Dijkstra][10027]
-* [Data Structure & Algorithm: Shortest Path - BFS][10026]
 
 <!--
+* [Data Structure & Algorithm: Shortest Path - BFS][10026]
 * [Data Structure & Algorithm: Rainbow Sort][10025]
 * [Data Structure & Algorithm: Monotonic Stack III][10024]
 * [Data Structure & Algorithm: Monotonic Stack II][10023]
@@ -134,3 +135,4 @@ More on [Youtube][10000]
 [10035]: https://www.youtube.com/watch?v=Tpc-k-nMukc
 [10036]: https://www.youtube.com/watch?v=9b133YOhI3g
 [10037]: https://www.youtube.com/watch?v=9W3aCMWlFIM
+[10038]: https://www.youtube.com/watch?v=9QDC6mhzyiA
