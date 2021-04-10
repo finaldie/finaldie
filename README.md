@@ -26,6 +26,7 @@ More on [finaldie.com/blog][0]
 </td><td valign="top" width="33%">
 
 ### [Youtube Videos][10000]
+* [System Design: Message Queue][10040]
 * [Trading bot: Introduction][10039]
 * [System Design: Data Partitioning][10038]
 * [System Design: Rate Limiting][10037]
@@ -138,3 +139,4 @@ More on [Youtube][10000]
 [10037]: https://www.youtube.com/watch?v=9W3aCMWlFIM
 [10038]: https://www.youtube.com/watch?v=9QDC6mhzyiA
 [10039]: https://www.youtube.com/watch?v=JoxUDsSg_S0
+[10040]: https://www.youtube.com/watch?v=h1Lx-vQxILk
