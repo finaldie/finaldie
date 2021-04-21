@@ -26,6 +26,7 @@ More on [finaldie.com/blog][0]
 </td><td valign="top" width="33%">
 
 ### [Youtube Videos][10000]
+* [System Design: Cache][10041]
 * [System Design: Message Queue][10040]
 * [Trading bot: Introduction][10039]
 * [System Design: Data Partitioning][10038]
@@ -35,12 +36,13 @@ More on [finaldie.com/blog][0]
 * [System Design: Data Replication][10034]
 * [Data Structure & Algorithm: Closest Point - Bidirectional BFS][10033]
 * [Data Structure & Algorithm: Partition Equal Sum - Dynamic Programming][10032]
+
+
+<!--
 * [Data Structure & Algorithm: Unique Paths][10031]
 * [Data Structure & Algorithm: Maze Escape - BFS][10030]
 * [Data Structure & Algorithm: Longest Substring - Sliding window][10029]
 * [Data Structure & Algorithm: Longest Increasing Sequence - Dynamic Programming][10028]
-
-<!--
 * [Data Structure & Algorithm: Minimum Path Sum - Dijkstra][10027]
 * [Data Structure & Algorithm: Shortest Path - BFS][10026]
 * [Data Structure & Algorithm: Rainbow Sort][10025]
@@ -140,3 +142,4 @@ More on [Youtube][10000]
 [10038]: https://www.youtube.com/watch?v=9QDC6mhzyiA
 [10039]: https://www.youtube.com/watch?v=JoxUDsSg_S0
 [10040]: https://www.youtube.com/watch?v=h1Lx-vQxILk
+[10041]: https://www.youtube.com/watch?v=eogGYnbUiaQ
