@@ -26,6 +26,7 @@ More on [finaldie.com/blog][0]
 </td><td valign="top" width="33%">
 
 ### [Youtube Videos][10000]
+* [System Design: CAP theorem][10043]
 * [Graphics programming: Lightning show][10042]
 * [System Design: Cache][10041]
 * [System Design: Message Queue][10040]
@@ -145,3 +146,4 @@ More on [Youtube][10000]
 [10040]: https://www.youtube.com/watch?v=h1Lx-vQxILk
 [10041]: https://www.youtube.com/watch?v=eogGYnbUiaQ
 [10042]: https://www.youtube.com/watch?v=09FVhIZ5PUY
+[10043]: https://www.youtube.com/watch?v=sIunRAqQuIA
