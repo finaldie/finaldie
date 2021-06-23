@@ -26,6 +26,7 @@ More on [finaldie.com/blog][0]
 </td><td valign="top" width="33%">
 
 ### [Youtube Videos][10000]
+* [System Design: Layer 4 load balancing][10044]
 * [System Design: CAP theorem][10043]
 * [Graphics programming: Lightning show][10042]
 * [System Design: Cache][10041]
@@ -37,10 +38,9 @@ More on [finaldie.com/blog][0]
 * [WebGL Shader: A million points][10035]
 * [System Design: Data Replication][10034]
 * [Data Structure & Algorithm: Closest Point - Bidirectional BFS][10033]
-* [Data Structure & Algorithm: Partition Equal Sum - Dynamic Programming][10032]
-
 
 <!--
+* [Data Structure & Algorithm: Partition Equal Sum - Dynamic Programming][10032]
 * [Data Structure & Algorithm: Unique Paths][10031]
 * [Data Structure & Algorithm: Maze Escape - BFS][10030]
 * [Data Structure & Algorithm: Longest Substring - Sliding window][10029]
@@ -147,3 +147,4 @@ More on [Youtube][10000]
 [10041]: https://www.youtube.com/watch?v=eogGYnbUiaQ
 [10042]: https://www.youtube.com/watch?v=09FVhIZ5PUY
 [10043]: https://www.youtube.com/watch?v=sIunRAqQuIA
+[10044]: https://www.youtube.com/watch?v=0Oh_Gu33bbw
