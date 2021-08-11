@@ -26,6 +26,7 @@ More on [finaldie.com/blog][0]
 </td><td valign="top" width="33%">
 
 ### [Youtube Videos][10000]
+* [System Design: Consistent hashing][10046]
 * [System Design: Layer 7 load balancing][10045]
 * [System Design: Layer 4 load balancing][10044]
 * [System Design: CAP theorem][10043]
@@ -150,3 +151,4 @@ More on [Youtube][10000]
 [10043]: https://www.youtube.com/watch?v=sIunRAqQuIA
 [10044]: https://www.youtube.com/watch?v=0Oh_Gu33bbw
 [10045]: https://www.youtube.com/watch?v=YH0eoBlWZww
+[10046]: https://www.youtube.com/watch?v=VUoxBv5GJW8
