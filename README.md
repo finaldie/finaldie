@@ -26,6 +26,7 @@ More on [finaldie.com/blog][0]
 </td><td valign="top" width="33%">
 
 ### [Youtube Videos][10000]
+* [System Design: Consistent hashing - Virtual node][10047]
 * [System Design: Consistent hashing][10046]
 * [System Design: Layer 7 load balancing][10045]
 * [System Design: Layer 4 load balancing][10044]
@@ -38,9 +39,9 @@ More on [finaldie.com/blog][0]
 * [System Design: Rate Limiting][10037]
 * [System Design: Horizontal Scaling][10036]
 * [WebGL Shader: A million points][10035]
-* [System Design: Data Replication][10034]
 
 <!--
+* [System Design: Data Replication][10034]
 * [Data Structure & Algorithm: Closest Point - Bidirectional BFS][10033]
 * [Data Structure & Algorithm: Partition Equal Sum - Dynamic Programming][10032]
 * [Data Structure & Algorithm: Unique Paths][10031]
@@ -152,3 +153,4 @@ More on [Youtube][10000]
 [10044]: https://www.youtube.com/watch?v=0Oh_Gu33bbw
 [10045]: https://www.youtube.com/watch?v=YH0eoBlWZww
 [10046]: https://www.youtube.com/watch?v=VUoxBv5GJW8
+[10047]: https://www.youtube.com/watch?v=nrR0lXBvC08
