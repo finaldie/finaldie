@@ -26,6 +26,7 @@ More on [finaldie.com/blog][0]
 </td><td valign="top" width="33%">
 
 ### [Youtube Videos][10000]
+* [Supply chain simulation][10049]
 * [System Design: Modular hashing][10048]
 * [System Design: Consistent hashing - Virtual node][10047]
 * [System Design: Consistent hashing][10046]
@@ -157,3 +158,4 @@ More on [Youtube][10000]
 [10046]: https://www.youtube.com/watch?v=VUoxBv5GJW8
 [10047]: https://www.youtube.com/watch?v=nrR0lXBvC08
 [10048]: https://www.youtube.com/watch?v=80XzRsMcxdw
+[10049]: https://www.youtube.com/watch?v=33q-37Gox38&feature=youtu.be
