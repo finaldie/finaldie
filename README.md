@@ -26,6 +26,7 @@ More on [finaldie.com/blog][0]
 </td><td valign="top" width="33%">
 
 ### [Youtube Videos][10000]
+* [Service decompsition][10050]
 * [Supply chain simulation][10049]
 * [System Design: Modular hashing][10048]
 * [System Design: Consistent hashing - Virtual node][10047]
@@ -38,11 +39,11 @@ More on [finaldie.com/blog][0]
 * [System Design: Message Queue][10040]
 * [Trading bot: Introduction][10039]
 * [System Design: Data Partitioning][10038]
-* [System Design: Rate Limiting][10037]
-* [System Design: Horizontal Scaling][10036]
 
 
 <!--
+* [System Design: Rate Limiting][10037]
+* [System Design: Horizontal Scaling][10036]
 * [WebGL Shader: A million points][10035]
 * [System Design: Data Replication][10034]
 * [Data Structure & Algorithm: Closest Point - Bidirectional BFS][10033]
@@ -159,3 +160,4 @@ More on [Youtube][10000]
 [10047]: https://www.youtube.com/watch?v=nrR0lXBvC08
 [10048]: https://www.youtube.com/watch?v=80XzRsMcxdw
 [10049]: https://www.youtube.com/watch?v=33q-37Gox38&feature=youtu.be
+[10050]: https://youtu.be/2wIgPGvLxx0
