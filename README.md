@@ -26,6 +26,7 @@ More on [finaldie.com/blog][0]
 </td><td valign="top" width="33%">
 
 ### [Youtube Videos][10000]
+- [System design: Realtime POI][10053]
 * [Object collision][10052]
 * [Big data transmission][10051]
 * [Service decompsition][10050]
@@ -38,11 +39,10 @@ More on [finaldie.com/blog][0]
 * [System Design: CAP theorem][10043]
 * [Graphics programming: Lightning show][10042]
 * [System Design: Cache][10041]
-* [System Design: Message Queue][10040]
-
 
 
 <!--
+* [System Design: Message Queue][10040]
 * [Trading bot: Introduction][10039]
 * [System Design: Data Partitioning][10038]
 * [System Design: Rate Limiting][10037]
@@ -166,3 +166,4 @@ More on [Youtube][10000]
 [10050]: https://youtu.be/2wIgPGvLxx0
 [10051]: https://youtu.be/xog-NTCiCAA
 [10052]: https://youtu.be/db_4fEtU96s
+[10053]: https://youtu.be/K_1Z7zjJxRk
