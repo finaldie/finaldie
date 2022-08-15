@@ -26,7 +26,7 @@ More on [finaldie.com/blog][0]
 </td><td valign="top" width="33%">
 
 ### [Youtube Videos][10000]
-- [System design: Realtime POI][10053]
+* [System design: Realtime POI][10053]
 * [Object collision][10052]
 * [Big data transmission][10051]
 * [Service decompsition][10050]
