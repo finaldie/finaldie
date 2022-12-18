@@ -26,6 +26,8 @@ More on [finaldie.com/blog][0]
 </td><td valign="top" width="33%">
 
 ### [Youtube Videos][10000]
+* [System design: Multithreading - Task Dependency][10056]
+* [System design: Multithreading - Basics][10054]
 * [System design: Multithreading][10054]
 * [System design: Realtime POI][10053]
 * [Object collision][10052]
@@ -37,12 +39,11 @@ More on [finaldie.com/blog][0]
 * [System Design: Consistent hashing][10046]
 * [System Design: Layer 7 load balancing][10045]
 * [System Design: Layer 4 load balancing][10044]
-* [System Design: CAP theorem][10043]
-* [Graphics programming: Lightning show][10042]
-
 
 
 <!--
+* [System Design: CAP theorem][10043]
+* [Graphics programming: Lightning show][10042]
 * [System Design: Cache][10041]
 * [System Design: Message Queue][10040]
 * [Trading bot: Introduction][10039]
@@ -170,3 +171,5 @@ More on [Youtube][10000]
 [10052]: https://youtu.be/db_4fEtU96s
 [10053]: https://youtu.be/K_1Z7zjJxRk
 [10054]: https://youtu.be/UkmA-HlAdS4
+[10055]: https://www.youtube.com/watch?v=KqFfhcIPdxQ
+[10056]: https://youtu.be/DcMQq6o87MM
