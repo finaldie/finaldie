@@ -26,6 +26,7 @@ More on [finaldie.com/blog][0]
 </td><td valign="top" width="33%">
 
 ### [Youtube Videos][10000]
+- [System design: Multithreading - Pipeline Parallelism][10057]
 * [System design: Multithreading - Task Dependency][10056]
 * [System design: Multithreading - Basics][10054]
 * [System design: Multithreading][10054]
@@ -38,10 +39,11 @@ More on [finaldie.com/blog][0]
 * [System Design: Consistent hashing - Virtual node][10047]
 * [System Design: Consistent hashing][10046]
 * [System Design: Layer 7 load balancing][10045]
-* [System Design: Layer 4 load balancing][10044]
+
 
 
 <!--
+* [System Design: Layer 4 load balancing][10044]
 * [System Design: CAP theorem][10043]
 * [Graphics programming: Lightning show][10042]
 * [System Design: Cache][10041]
@@ -173,3 +175,4 @@ More on [Youtube][10000]
 [10054]: https://youtu.be/UkmA-HlAdS4
 [10055]: https://www.youtube.com/watch?v=KqFfhcIPdxQ
 [10056]: https://youtu.be/DcMQq6o87MM
+[10057]: https://www.youtube.com/watch?v=Xc2kZsY8H5E
