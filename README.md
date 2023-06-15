@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <table><tr><td valign="top" width="33%">
 
 ### [Recent Blogs][0]
+* [Auto-News: An Automated News Aggregator with LLM][4]
 * [Tmux: Network RTT Detection][3]
 * [Data partitioning: Consistent-Hashing][1]
 * [Load Balancer: Will our system survive?][2]
@@ -114,6 +115,7 @@ More on [Youtube][10000]
 [1]: https://finaldie.com/blog/data-partitioning-consistent-hashing/
 [2]: https://finaldie.com/blog/load-balancer-will-our-system-survive/
 [3]: https://finaldie.com/blog/tmux-network-rtt-detection/
+[4]: https://finaldie.com/blog/auto-news-an-automated-news-aggregator-with-llm/
 
 <!-- Youtube -->
 [10000]: https://www.youtube.com/channel/UCi61auy7cm6PKWNkp0owf7Q
