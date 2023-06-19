@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <table><tr><td valign="top" width="33%">
 
 ### [Recent Blogs][0]
-* [Auto-News: An Automated News Aggregator with LLM][4]
+* [Auto-News: An Automatic News Aggregator with LLM][4]
 * [Tmux: Network RTT Detection][3]
 * [Data partitioning: Consistent-Hashing][1]
 * [Load Balancer: Will our system survive?][2]
