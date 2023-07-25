@@ -27,6 +27,7 @@ More on [finaldie.com/blog][0]
 </td><td valign="top" width="33%">
 
 ### [Youtube Videos][10000]
+- [Say Goodbye to Information Overload with Auto-News: Your Unified Platform for Relevant Content][10058]
 - [System design: Multithreading - Pipeline Parallelism][10057]
 * [System design: Multithreading - Task Dependency][10056]
 * [System design: Multithreading - Basics][10054]
@@ -178,3 +179,4 @@ More on [Youtube][10000]
 [10055]: https://www.youtube.com/watch?v=KqFfhcIPdxQ
 [10056]: https://youtu.be/DcMQq6o87MM
 [10057]: https://www.youtube.com/watch?v=Xc2kZsY8H5E
+[10058]: https://www.youtube.com/watch?v=hKFIyfAF4Z4
